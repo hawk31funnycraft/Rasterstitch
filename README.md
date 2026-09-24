@@ -223,4 +223,4 @@ RasterStitch is provided as a full free version, including all features and upda
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-24 18:13:00 UTC
+**Last updated:** 2026-09-24 21:59:06 UTC
